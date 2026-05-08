@@ -1,0 +1,25 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+#quizbox {
+    height: 250px;
+    width: 400px;
+    background-color: white;
+    padding: 40px;
+    margin: 50px auto;
+}
+
+button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px 15px;
+    background-color: burlywood;
+    border: none;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: antiquewhite;
+}
